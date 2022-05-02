@@ -24,3 +24,5 @@ The repository will contain the following:
     * 2021_accidents_persones_gu_bcn_: Accidents in Barcelona in the year 2021
 
     * 2021-2018_accidents_persones_bcn: Union of all accident files between 2018 and 2021 inclusive.
+
+All data are extracted from the Barcelona City Council website, whose data are licensed under a Creative Commons Attribution 4.0 license. The link to download them is the following: https://opendata-ajuntament.barcelona.cat/data/es/dataset/accidents-persones-gu-bcn
