@@ -15,9 +15,9 @@ The repository will contain the following:
 
 - Data folder: contains the .csv files with the following:
  
-* 2018_accidents_persones_gu_bcn_: Accidents in Barcelona in 2018.
+** 2018_accidents_persones_gu_bcn_: Accidents in Barcelona in 2018.
 
-* 2019_accidents_persones_gu_bcn_: Accidents in Barcelona in the year 2019
+** 2019_accidents_persones_gu_bcn_: Accidents in Barcelona in the year 2019
 
 * 2020_accidents_persones_gu_bcn_: Accidents in Barcelona in 2020
 
