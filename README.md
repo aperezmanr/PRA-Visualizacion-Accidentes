@@ -19,8 +19,8 @@ The repository will contain the following:
 
     * 2019_accidents_persones_gu_bcn_: Accidents in Barcelona in the year 2019
 
-* 2020_accidents_persones_gu_bcn_: Accidents in Barcelona in 2020
+    * 2020_accidents_persones_gu_bcn_: Accidents in Barcelona in 2020
 
-* 2021_accidents_persones_gu_bcn_: Accidents in Barcelona in the year 2021
+    * 2021_accidents_persones_gu_bcn_: Accidents in Barcelona in the year 2021
 
-* 2021-2018_accidents_persones_bcn: Union of all accident files between 2018 and 2021 inclusive.
+    * 2021-2018_accidents_persones_bcn: Union of all accident files between 2018 and 2021 inclusive.
