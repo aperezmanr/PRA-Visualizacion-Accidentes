@@ -5,7 +5,7 @@ The repository will be updated with the exercises proposed by the course.
 
 The division of these exercises will be based on:
 
-1. Selection of the dataset and brief description of it 2.
+1. Selection of the dataset and brief description of it.
 
 2. Elaboration of the visualization of the objectives of the same.
 
